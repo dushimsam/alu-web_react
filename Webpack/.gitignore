@@ -5,4 +5,8 @@ node_modules/
 **/dist/main.js
 **/dist/*.LICENSE.txt
 # Ignore the public directory and its contents
+task_1/public/bundle.js
+task_1/public/*.LICENSE.txt
+task_2/public/bundle.js
+task_2/public/*.LICENSE.txt
 task_3/public/
